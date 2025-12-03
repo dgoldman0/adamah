@@ -64,269 +64,269 @@ Mark each statement **True (T)** or **False (F).**
 
 ## 🔹 SECTION II – MULTIPLE CHOICE (50 QUESTIONS)
 
-26. In system thinking, a **system boundary** is primarily used to:
-       a) Enclose only physical parts
-       b) Separate important components from unimportant ones
-       c) Define what counts as inside vs. outside for analysis
-       d) Prevent modifications across subsystems
+26. In system thinking, a **system boundary** is primarily used to:  
+    a) Enclose only physical parts  
+    b) Separate important components from unimportant ones  
+    c) Define what counts as inside vs. outside for analysis  
+    d) Prevent modifications across subsystems  
 
-27. Which best describes **emergent behavior**?
-       a) Random behavior caused by defects
-       b) Behavior of the whole that arises from interactions of parts
-       c) Behavior dictated only by the strongest component
-       d) Behavior based on manufacturing tolerance charts
+27. Which best describes **emergent behavior**?  
+    a) Random behavior caused by defects  
+    b) Behavior of the whole that arises from interactions of parts  
+    c) Behavior dictated only by the strongest component  
+    d) Behavior based on manufacturing tolerance charts  
 
-28. A **degree of freedom** in a mechanism is:
-       a) The maximum load it can carry
-       b) An independent way it can move or rotate
-       c) The number of components it contains
-       d) The amount of energy it stores
+28. A **degree of freedom** in a mechanism is:  
+    a) The maximum load it can carry  
+    b) An independent way it can move or rotate  
+    c) The number of components it contains  
+    d) The amount of energy it stores  
 
-29. A **constraint** in mechanical design is:
-       a) Any decorative feature
-       b) A limit placed on motion or behavior
-       c) Any standardized part
-       d) A safety device only
+29. A **constraint** in mechanical design is:  
+    a) Any decorative feature  
+    b) A limit placed on motion or behavior  
+    c) Any standardized part  
+    d) A safety device only  
 
-30. When a system’s current behavior depends on its history, the system is described as:
-       a) Linear
-       b) Reversible
-       c) Stateless
-       d) Stateful
+30. When a system’s current behavior depends on its history, the system is described as:  
+    a) Linear  
+    b) Reversible  
+    c) Stateless  
+    d) Stateful  
 
-31. The term **failure mode** refers to:
-       a) The root cause behind a failure
-       b) The specific way a system stops meeting its intended function
-       c) The most expensive part in the system
-       d) The time interval between failures
+31. The term **failure mode** refers to:  
+    a) The root cause behind a failure  
+    b) The specific way a system stops meeting its intended function  
+    c) The most expensive part in the system  
+    d) The time interval between failures  
 
-32. A **latent failure mode** is one that:
-       a) Has already occurred and been repaired
-       b) Is guaranteed never to occur
-       c) Exists as a potential but has not yet manifested
-       d) Only appears under ideal conditions
+32. A **latent failure mode** is one that:  
+    a) Has already occurred and been repaired  
+    b) Is guaranteed never to occur  
+    c) Exists as a potential but has not yet manifested  
+    d) Only appears under ideal conditions  
 
-33. **Feedback** in a system occurs when:
-       a) The system receives customer reviews
-       b) Some of the system’s output is routed back to influence its input
-       c) A system includes a manual override switch
-       d) Two subsystems share power but no signals
+33. **Feedback** in a system occurs when:  
+    a) The system receives customer reviews  
+    b) Some of the system’s output is routed back to influence its input  
+    c) A system includes a manual override switch  
+    d) Two subsystems share power but no signals  
 
-34. A good **mental model** for tinkering should:
-       a) Include every microscopic detail of the system
-       b) Be simple enough to use yet aligned with key behaviors
-       c) Avoid abstraction and rely only on diagrams
-       d) Match the official documentation exactly
+34. A good **mental model** for tinkering should:  
+    a) Include every microscopic detail of the system  
+    b) Be simple enough to use yet aligned with key behaviors  
+    c) Avoid abstraction and rely only on diagrams  
+    d) Match the official documentation exactly  
 
-35. **Entropy** in engineered systems is closely related to:
-       a) Increasing organization and order
-       b) Decreasing energy and power
-       c) Increasing disorder, wear, and uncertainty
-       d) Decreasing system boundaries
+35. **Entropy** in engineered systems is closely related to:  
+    a) Increasing organization and order  
+    b) Decreasing energy and power  
+    c) Increasing disorder, wear, and uncertainty  
+    d) Decreasing system boundaries  
 
-36. An **interface** between subsystems is best viewed as:
-       a) A decorative border in CAD drawings
-       b) A location where information, energy, or matter is exchanged
-       c) A region that has no effect on system behavior
-       d) A purely mechanical joint
+36. An **interface** between subsystems is best viewed as:  
+    a) A decorative border in CAD drawings  
+    b) A location where information, energy, or matter is exchanged  
+    c) A region that has no effect on system behavior  
+    d) A purely mechanical joint  
 
-37. **Redundancy** improves reliability most when:
-       a) Redundant elements share the same failure cause
-       b) Redundant elements are independent and monitored
-       c) Redundant elements are hidden and undocumented
-       d) Redundant elements are rarely tested
+37. **Redundancy** improves reliability most when:  
+    a) Redundant elements share the same failure cause  
+    b) Redundant elements are independent and monitored  
+    c) Redundant elements are hidden and undocumented  
+    d) Redundant elements are rarely tested  
 
-38. **Path dependence** in a design means:
-       a) The shortest path is always best
-       b) Signal paths are always symmetrical
-       c) The final configuration depends on the sequence of changes
-       d) The physical path of wiring cannot change
+38. **Path dependence** in a design means:  
+    a) The shortest path is always best  
+    b) Signal paths are always symmetrical  
+    c) The final configuration depends on the sequence of changes  
+    d) The physical path of wiring cannot change  
 
-39. A system with **high robustness** tends to:
-       a) Break easily when inputs vary
-       b) Maintain function under a range of conditions
-       c) Amplify small disturbances
-       d) Require continuous fine adjustment
+39. A system with **high robustness** tends to:  
+    a) Break easily when inputs vary  
+    b) Maintain function under a range of conditions  
+    c) Amplify small disturbances  
+    d) Require continuous fine adjustment  
 
-40. A **sensitive** measurement system is one that:
-       a) Ignores small signals
-       b) Responds strongly to small inputs
-       c) Uses only mechanical components
-       d) Has no noise
+40. A **sensitive** measurement system is one that:  
+    a) Ignores small signals  
+    b) Responds strongly to small inputs  
+    c) Uses only mechanical components  
+    d) Has no noise  
 
-41. A design that uses **functional duality** (one part, two roles) is:
-       a) Always safer
-       b) Always cheaper
-       c) Often efficient yet more fragile
-       d) Required for safety certification
+41. A design that uses **functional duality** (one part, two roles) is:  
+    a) Always safer  
+    b) Always cheaper  
+    c) Often efficient yet more fragile  
+    d) Required for safety certification  
 
-42. **Model friction** increases when:
-       a) Data perfectly matches predictions
-       b) The mental model uses too few diagrams
-       c) Observed results repeatedly contradict expectations
-       d) Documentation becomes more detailed
+42. **Model friction** increases when:  
+    a) Data perfectly matches predictions  
+    b) The mental model uses too few diagrams  
+    c) Observed results repeatedly contradict expectations  
+    d) Documentation becomes more detailed  
 
-43. In a nonlinear system, **proportionality** between input and output:
-       a) Holds perfectly for all inputs
-       b) Holds for small inputs only
-       c) Does not hold consistently across the range
-       d) Depends only on the designer’s intention
+43. In a nonlinear system, **proportionality** between input and output:  
+    a) Holds perfectly for all inputs  
+    b) Holds for small inputs only  
+    c) Does not hold consistently across the range  
+    d) Depends only on the designer’s intention  
 
-44. A **tipping point** is:
-       a) The moment the system is first built
-       b) A threshold where a gradual change triggers a sudden shift
-       c) The point of minimum energy use
-       d) The location of the largest component
+44. A **tipping point** is:  
+    a) The moment the system is first built  
+    b) A threshold where a gradual change triggers a sudden shift  
+    c) The point of minimum energy use  
+    d) The location of the largest component  
 
-45. **Timing interactions** in complex systems often cause:
-       a) Completely predictable behavior
-       b) Failures that occur only under very specific sequences or overlaps
-       c) Immediate permanent damage in all cases
-       d) Only cosmetic issues
+45. **Timing interactions** in complex systems often cause:  
+    a) Completely predictable behavior  
+    b) Failures that occur only under very specific sequences or overlaps  
+    c) Immediate permanent damage in all cases  
+    d) Only cosmetic issues  
 
-46. A **hidden coupling** between subsystems may show up as:
-       a) Obvious physical interference
-       b) Shared documentation
-       c) Rare glitches when two operations happen at once
-       d) Matching part numbers
+46. A **hidden coupling** between subsystems may show up as:  
+    a) Obvious physical interference  
+    b) Shared documentation  
+    c) Rare glitches when two operations happen at once  
+    d) Matching part numbers  
 
-47. **Abstraction layering** helps tinkerers by:
-       a) Hiding all details permanently
-       b) Organizing complexity into levels with defined interfaces
-       c) Preventing cross-layer thinking
-       d) Eliminating the need for mental models
+47. **Abstraction layering** helps tinkerers by:  
+    a) Hiding all details permanently  
+    b) Organizing complexity into levels with defined interfaces  
+    c) Preventing cross-layer thinking  
+    d) Eliminating the need for mental models  
 
-48. **Reversibility** of a modification relates to:
-       a) How fast the system operates afterward
-       b) How easily the prior state can be restored
-       c) The cost of new components
-       d) The complexity of the original design
+48. **Reversibility** of a modification relates to:  
+    a) How fast the system operates afterward  
+    b) How easily the prior state can be restored  
+    c) The cost of new components  
+    d) The complexity of the original design  
 
-49. Irreversible changes are more acceptable when:
-       a) The experiment is exploratory and information is scarce
-       b) The system is rare and critical
-       c) Confidence in the model is high and the benefit is substantial
-       d) No documentation exists
+49. Irreversible changes are more acceptable when:  
+    a) The experiment is exploratory and information is scarce  
+    b) The system is rare and critical  
+    c) Confidence in the model is high and the benefit is substantial  
+    d) No documentation exists  
 
-50. A **trade-off** in design is best described as:
-       a) An improvement that benefits every metric
-       b) A compromise where improvement in one area affects another
-       c) An error in judgment
-       d) A purely financial decision
+50. A **trade-off** in design is best described as:  
+    a) An improvement that benefits every metric  
+    b) A compromise where improvement in one area affects another  
+    c) An error in judgment  
+    d) A purely financial decision  
 
-51. **System slack** refers to:
-       a) Unused capacity or tolerance within a design
-       b) Code that runs slowly
-       c) A communication channel
-       d) Extra documentation pages
+51. **System slack** refers to:  
+    a) Unused capacity or tolerance within a design  
+    b) Code that runs slowly  
+    c) A communication channel  
+    d) Extra documentation pages  
 
-52. Designing with slack can:
-       a) Reduce resilience
-       b) Buffer against uncertainty and variability
-       c) Eliminate the need for tolerances
-       d) Guarantee zero failures
+52. Designing with slack can:  
+    a) Reduce resilience  
+    b) Buffer against uncertainty and variability  
+    c) Eliminate the need for tolerances  
+    d) Guarantee zero failures  
 
-53. A system that behaves **chaotically**:
-       a) Has no rules at all
-       b) Follows deterministic rules but shows highly sensitive dependence on initial conditions
-       c) Is always malfunctioning
-       d) Cannot be analyzed at any level
+53. A system that behaves **chaotically**:  
+    a) Has no rules at all  
+    b) Follows deterministic rules but shows highly sensitive dependence on initial conditions  
+    c) Is always malfunctioning  
+    d) Cannot be analyzed at any level  
 
-54. **Local optimization** focuses on:
-       a) Improving the entire system at once
-       b) Adjusting a single subsystem or metric
-       c) Reviewing all design documents
-       d) Reducing environmental effects
+54. **Local optimization** focuses on:  
+    a) Improving the entire system at once  
+    b) Adjusting a single subsystem or metric  
+    c) Reviewing all design documents  
+    d) Reducing environmental effects  
 
-55. Global behavior becoming worse after a local improvement is an example of:
-       a) Perfect optimization
-       b) Unexpected robustness
-       c) Misaligned objectives between parts and whole
-       d) Proper entropy management
+55. Global behavior becoming worse after a local improvement is an example of:  
+    a) Perfect optimization  
+    b) Unexpected robustness  
+    c) Misaligned objectives between parts and whole  
+    d) Proper entropy management  
 
-56. An **interface contract** between modules defines:
-       a) Legal ownership of the design
-       b) Expected ranges, formats, and responsibilities across boundaries
-       c) The warranty period
-       d) The physical dimensions of the whole device
+56. An **interface contract** between modules defines:  
+    a) Legal ownership of the design  
+    b) Expected ranges, formats, and responsibilities across boundaries  
+    c) The warranty period  
+    d) The physical dimensions of the whole device  
 
-57. Violating interface contracts during tinkering often leads to:
-       a) Easier integration
-       b) Simplified testing
-       c) Surprising failures and miscommunication between modules
-       d) Lower model friction
+57. Violating interface contracts during tinkering often leads to:  
+    a) Easier integration  
+    b) Simplified testing  
+    c) Surprising failures and miscommunication between modules  
+    d) Lower model friction  
 
-58. In a mechanical assembly, **overconstraint** means:
-       a) Too many parts are missing
-       b) Multiple constraints restrict the same motion in conflicting ways
-       c) The assembly is very strong
-       d) No components can move at all
+58. In a mechanical assembly, **overconstraint** means:  
+    a) Too many parts are missing  
+    b) Multiple constraints restrict the same motion in conflicting ways  
+    c) The assembly is very strong  
+    d) No components can move at all  
 
-59. **Symmetry assumptions** in real systems often fail because:
-       a) Manufacturing always achieves perfect symmetry
-       b) Real loads, tolerances, and conditions introduce asymmetry
-       c) Designers avoid symmetry in all cases
-       d) Symmetry is purely conceptual
+59. **Symmetry assumptions** in real systems often fail because:  
+    a) Manufacturing always achieves perfect symmetry  
+    b) Real loads, tolerances, and conditions introduce asymmetry  
+    c) Designers avoid symmetry in all cases  
+    d) Symmetry is purely conceptual  
 
-60. **Latent structure** refers to:
-       a) Only visual features of a design
-       b) Hidden geometry, stiffness paths, and relationships that shape behavior
-       c) Documentation that no one reads
-       d) Only software code
+60. **Latent structure** refers to:  
+    a) Only visual features of a design  
+    b) Hidden geometry, stiffness paths, and relationships that shape behavior  
+    c) Documentation that no one reads  
+    d) Only software code  
 
-61. Discovering latent structure usually involves:
-       a) Ignoring anomalies
-       b) Repeated observation, testing, and comparative reasoning
-       c) Only reading marketing materials
-       d) Changing multiple variables at random
+61. Discovering latent structure usually involves:  
+    a) Ignoring anomalies  
+    b) Repeated observation, testing, and comparative reasoning  
+    c) Only reading marketing materials  
+    d) Changing multiple variables at random  
 
-62. A **robust yet sensitive** system tends to:
-       a) Ignore all inputs
-       b) Balance stability against responsiveness in selected dimensions
-       c) Eliminate feedback
-       d) Avoid any slack
+62. A **robust yet sensitive** system tends to:  
+    a) Ignore all inputs  
+    b) Balance stability against responsiveness in selected dimensions  
+    c) Eliminate feedback  
+    d) Avoid any slack  
 
-63. A **race condition** is a kind of failure where:
-       a) Components fail at high speed
-       b) Outcome depends on timing between concurrent events
-       c) The fastest subsystem always wins
-       d) Only mechanical parts are involved
+63. A **race condition** is a kind of failure where:  
+    a) Components fail at high speed  
+    b) Outcome depends on timing between concurrent events  
+    c) The fastest subsystem always wins  
+    d) Only mechanical parts are involved  
 
-64. **System-level thinking** encourages a tinkerer to:
-       a) Focus only on the faulty component
-       b) Consider interactions, dependencies, and environment
-       c) Avoid using mental models
-       d) Ignore emergent behavior
+64. **System-level thinking** encourages a tinkerer to:  
+    a) Focus only on the faulty component  
+    b) Consider interactions, dependencies, and environment  
+    c) Avoid using mental models  
+    d) Ignore emergent behavior  
 
-65. **Constraint propagation** means:
-       a) Constraints in one part influence allowable states in other parts
-       b) Constraints stay isolated
-       c) Only geometric constraints matter
-       d) Constraints disappear over time
+65. **Constraint propagation** means:  
+    a) Constraints in one part influence allowable states in other parts  
+    b) Constraints stay isolated  
+    c) Only geometric constraints matter  
+    d) Constraints disappear over time  
 
-66. A **design heuristic** is:
-       a) A guaranteed optimal solution
-       b) A rule of thumb that works often but not always
-       c) A purely aesthetic guideline
-       d) A measurement tool
+66. A **design heuristic** is:  
+    a) A guaranteed optimal solution  
+    b) A rule of thumb that works often but not always  
+    c) A purely aesthetic guideline  
+    d) A measurement tool  
 
-67. Tinkerers rely on heuristics mainly because:
-       a) They replace all theory
-       b) Exact analysis is impossible in every situation
-       c) Heuristics require no experience
-       d) Systems never repeat behavior
+67. Tinkerers rely on heuristics mainly because:  
+    a) They replace all theory  
+    b) Exact analysis is impossible in every situation  
+    c) Heuristics require no experience  
+    d) Systems never repeat behavior  
 
-68. **Exploratory tinkering** is most valuable when:
-       a) The system is already fully understood
-       b) The cost of experiments is high and irreversible
-       c) The model is incomplete and low-risk experiments can reveal structure
-       d) Modifications are forbidden
+68. **Exploratory tinkering** is most valuable when:  
+    a) The system is already fully understood  
+    b) The cost of experiments is high and irreversible  
+    c) The model is incomplete and low-risk experiments can reveal structure  
+    d) Modifications are forbidden  
 
-69. A system with **high coupling** between components tends to:
-       a) Localize failures
-       b) Spread disturbances widely
-       c) Ignore environmental changes
-       d) Contain fewer interfaces
+69. A system with **high coupling** between components tends to:  
+    a) Localize failures  
+    b) Spread disturbances widely  
+    c) Ignore environmental changes  
+    d) Contain fewer interfaces  
 
 70. **Decoupling** subsystems usually:  
     a) Increases the impact of local changes on the whole  
