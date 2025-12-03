@@ -361,10 +361,10 @@ Choose the **one best answer** for each question.
     d) Mechanical forces
 
 75. A tinkerer who maintains **reversible steps** early in a project gains:
-    a) More freedom to pivot and refine
-    b) Faster access to final, locked-in designs
-    c) Less understanding of the system
-    d) No benefit from experimentation
+    a) More freedom to pivot and refine  
+    b) Faster access to final, locked-in designs  
+    c) Less understanding of the system  
+    d) No benefit from experimentation  
 
 ---
 
