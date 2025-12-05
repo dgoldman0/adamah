@@ -4,4 +4,4 @@ Adamah is a constructed nation built to prototype applying modern technolies to 
 
 # Contact
 
-**Discord:** [Barayin Project Server)(https://discord.gg/AnrXxhs3b2)
+**Discord:** [Barayin Project Server](https://discord.gg/AnrXxhs3b2)
