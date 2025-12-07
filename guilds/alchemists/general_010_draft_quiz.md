@@ -79,7 +79,7 @@
 
 13. The microbial culture used to produce kombucha is referred to as a:  
     A. SCOBY  
-    B. MALT  
+    B. MALT  and other crafters who transform matter.
     C. Rennet wheel  
     D. Curd colony  
 
@@ -289,29 +289,30 @@
 
 # SECTION C — FILL IN THE BLANK (25 QUESTIONS)
 
-1. Fermentation converts **__________** into alcohol, acids, or gases.  
-2. The microorganism most associated with brewing is **__________**.  
-3. In cheesemaking, **__________** coagulates milk proteins into curds.  
-4. A hydrometer measures sugar **__________**.  
-5. Mead begins with honey diluted into **__________**.  
-6. Lactic acid bacteria convert lactose into **__________** acid.  
-7. The foamy layer forming atop beer fermentation is called **__________**.  
-8. The mixture of grape juice, skins, and seeds is known as **__________**.  
-9. Barrel aging adds tannins and **__________** compounds.  
-10. A SCOBY is used to make **__________**.  
-11. Distillation separates liquids based on **__________** points.  
-12. Starter cultures help ensure **__________** fermentation.  
-13. Curds form when milk proteins **__________**.  
-14. Wild fermentation uses microbes found in the **__________**.  
-15. The spent or settled yeast at the bottom of wine is called **__________**.  
-16. Koji produces enzymes that break down **__________** into sugars.  
-17. Brining cheese influences texture and **__________**.  
-18. Oxidation in wine occurs when too much **__________** is present.  
-19. Lactic acid fermentation lowers **__________**.  
-20. Fruit-based mead is traditionally known as **__________**.  
-21. Yeast produce alcohol and **__________** during alcoholic fermentation.  
-22. Sanitation helps reduce **__________** microbes.  
-23. Mash for distillation is created by fermenting **__________** or grains.  
-24. Affinage refers to the **__________** of cheese.  
-25. Terroir reflects environmental factors such as soil and **__________**.
+1. During fermentation, microorganisms break down **__________** to create flavorful byproducts.  
+2. The primary fermenting agent in beer production is **__________**.  
+3. Enzymatic action or rennet causes milk proteins to **__________** into curds.  
+4. A refractometer measures sugar **__________** using light refraction.  
+5. Traditional mead begins with honey dissolved in **__________**.  
+6. Lactic acid bacteria transform lactose into **__________**.  
+7. The rising foam layer in active beer fermentation is known as **__________**.  
+8. In winemaking, freshly crushed grape juice and skins together form the **__________**.  
+9. Oak barrels contribute aroma through natural **__________** compounds.  
+10. A SCOBY provides both yeast and bacteria needed to ferment **__________**.  
+11. Distillation relies on differences in **__________** points to separate liquids.  
+12. Starter cultures support reliably **__________** fermentation outcomes.  
+13. Milk proteins contract and **__________** when forming curds.  
+14. Wild fermentation draws upon microbes present in the **__________**.  
+15. Settled yeast and solids at the bottom of aging wine are called the **__________**.  
+16. Koji enzymes convert grain starches into fermentable **__________**.  
+17. Brining cheese shapes flavor and helps regulate **__________** activity.  
+18. Oxidation in beverages occurs when excess **__________** interacts with delicate compounds.  
+19. Lactic acid fermentation steadily reduces product **__________**.  
+20. A mead made with added fruit traditionally goes by the term **__________**.  
+21. Yeast generate alcohol and **__________** as key outputs of alcoholic fermentation.  
+22. Sanitary practices limit the presence of **__________** microbes.  
+23. A fermentable mash for distillation is produced from converted **__________** or grains.  
+24. Affinage refers to the careful **__________** of cheese as it matures.  
+25. Terroir reflects natural influences such as soil and regional **__________**.
+
 
