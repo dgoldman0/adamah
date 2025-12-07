@@ -249,41 +249,41 @@
 
 # SECTION B — TRUE/FALSE (35 QUESTIONS)
 
-1. Fermentation can produce alcohol, acids, or gases.  
-2. Yeast need sugar to carry out alcoholic fermentation.  
-3. Lactobacillus is responsible for many tangy fermented foods.  
-4. Sanitation helps prevent off-flavors and contamination.  
-5. Pasteurization eliminates every microorganism.  
-6. Temperature influences fermentation speed and flavor.  
-7. Wild fermentation depends on environmental microbes.  
-8. Oxygen is helpful only during early yeast growth phases.  
-9. Honey lacks the nutrients yeast need, making mead slower to ferment.  
-10. Rennet coagulates milk proteins into curds.  
-11. Mold plays a positive role in some cheeses.  
-12. Distillation separates alcohol from water based on boiling points.  
-13. A hydrometer measures acidity.  
-14. Aging beverages in wood can change flavor.  
-15. Starter cultures create more predictable results.  
-16. High sugar levels can stress yeast.  
-17. Kombucha requires both yeast and bacteria.  
-18. Vinegar is made when alcohol is converted to acetic acid.  
-19. Beer wort is produced before fermentation.  
-20. Wild yeasts always behave predictably.  
-21. Brining cheese helps control microbial growth.  
-22. Fruit additions can expand mead flavor profiles.  
-23. Carbon dioxide builds pressure during sealed fermentations.  
-24. Terroir affects flavor in wine and other ferments.  
-25. Clean water is critical to fermentation success.  
-26. Lactic acid fermentation lowers pH.  
-27. Improper storage can spoil finished products.  
-28. Aging cheese alters its moisture and texture.  
-29. Lees can influence flavor development during aging.  
-30. Koji helps convert starches into fermentable sugars.  
-31. Heat can kill yeast.  
-32. Malt is produced through controlled germination.  
-33. Excess oxygen in wine causes oxidation.  
-34. Different yeast strains produce different flavor profiles.  
-35. Distillation does not create alcohol; it concentrates what fermentation produced.
+1. Fermentation always produces alcohol as its main product.  
+2. Yeast use sugar as a substrate during alcoholic fermentation.  
+3. Lactobacillus commonly creates tangy flavors in fermented foods.  
+4. Good sanitation practices reduce the risk of off-flavors and contamination.  
+5. Pasteurization kills every single microorganism in a product.  
+6. Lower fermentation temperatures generally slow yeast activity.  
+7. Wild fermentation relies only on packaged commercial cultures.  
+8. Oxygen is important for yeast at the start of fermentation but can be harmful later.  
+9. Diluted honey supplies all nutrients yeast need, so mead ferments as fast as beer wort.  
+10. Rennet causes milk proteins to clump together into curds.  
+11. All molds in cheese are harmful and must be avoided.  
+12. Distillation separates components partly based on their boiling points.  
+13. A hydrometer is primarily used to measure the acidity (pH) of a fermenting liquid.  
+14. Aging beverages in stainless steel always gives the same flavors as aging in oak barrels.  
+15. Using starter cultures can make fermentation results more consistent.  
+16. Extremely high sugar levels can stress or dehydrate yeast cells.  
+17. Kombucha ferments with only bacteria and does not involve yeast.  
+18. Vinegar forms when microorganisms convert alcohol into acetic acid.  
+19. Beer wort is the alcoholic liquid that results after yeast fermentation is complete.  
+20. Wild yeasts from the environment always behave the same way in every batch.  
+21. Brining cheese can influence both flavor and microbial growth.  
+22. Adding fruit to mead never changes its aroma, only its color.  
+23. Carbon dioxide released in sealed containers always leaks out and never carbonates the beverage.  
+24. Terroir refers only to the type of yeast used, not to climate or soil.  
+25. Using clean, chlorine-free water helps promote healthy fermentation.  
+26. Lactic acid fermentation often lowers the pH of foods.  
+27. Finished fermented products cannot spoil, no matter how they are stored.  
+28. Aging cheese can change its moisture content, texture, and flavor.  
+29. Lees contact during aging can affect flavor and mouthfeel in beverages.  
+30. Koji molds do not break down starches and are used only for coloring foods, not for fermentation.  
+31. Yeast remain unaffected by high temperatures during pasteurization.  
+32. Malt is produced by carefully germinating and then drying cereal grains.  
+33. Excess oxygen exposure in wine can lead to oxidation and off-flavors.  
+34. All yeast strains produce identical flavor profiles in fermented beverages.  
+35. Distillation concentrates alcohol that fermentation has already produced rather than creating new alcohol.
 
 ---
 
