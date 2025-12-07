@@ -1,5 +1,5 @@
 # 🜂 ALCHEMISTS 010 QUIZ — LONG FORMAT  
-*A foundational quiz for brewers, winemakers, meadmakers, distillers (conceptually), fermenters, cheesemakers, bakers, picklers, and other crafters who transform matter.*
+*A foundational quiz for brewers, winemakers, meadmakers, distillers, fermenters, cheesemakers, bakers, picklers, and others*
 
 ---
 
