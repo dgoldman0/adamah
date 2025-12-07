@@ -32,6 +32,10 @@ Through molds, yeasts, cultures, and carefully guided processes, inert materials
 - Support members’ personal and commercial ventures  
 - Foster a culture of curiosity, mutual respect, and mastery
 
+## Materials
+
+There are some existing early craft educational materials available, such as an [entry level "apothocary" quiz](https://github.com/dgoldman0/adamah/blob/main/guilds/alchemists/general_010_draft_quiz.md). 
+
 ## Membership
 
 Membership is open to practitioners and learners across all related crafts who are members of the Adamah Constructed Nation.
