@@ -4,9 +4,11 @@ Adamah is a constructed nation built to prototype applying modern technolies to 
 
 ## Triad Design
 
-- Domoim - Cooperative based extended friend and family households
-- National Guilds
-- Embassy/Consulate System
+Three separate components together allow Adamah to function as a coherent national infrastructure paradigm. 
+
+- National Guilds which manage everyday tasks of the nation based on their skill area while also acting as national stewards of their crafts.
+- Embassy/Consulate System - Serve for onboarding, access to immediate services, and serve as negotiating bodies with other nations.
+- Domoim - Cooperative based extended friend and family households. 
 
 # Note
 
