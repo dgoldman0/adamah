@@ -12,7 +12,7 @@ Kibbutzim, by contrast, cultivate cohesion through shared purpose and collective
 
 ## Constructing the Domo (House)
 
-While there are many designs that work for cooperative living, and many paradigms are repeated over and over again, it is interesting that the Roman domus is rather unique in its single physical household as a microcosm of Rome itself. The kibbitzim meanwhile show a sustainable blend of cooperative living and integration with the broader economy. What if we were to take the best elements of the domus and bring them forawrd, while maintaining a highly cooperative social and economic framework of the kibbitzim? Using technology to blend the two ideas makes it fully possible.
+While there are many designs that work for cooperative living, and many paradigms are repeated over and over again, it is interesting that the Roman domus is rather unique in its single physical household as a microcosm of Rome itself. The kibbitzim meanwhile show a sustainable blend of cooperative living and integration with the broader economy. What if we were to take the best elements of the domus and bring them forawrd, while maintaining a highly cooperative social and economic framework of the kibbitzim? Using technology to blend the two ideas makes it fully possible. If we do think of the "domus" of Rome as microcosm of Roman life, then we can think of the Adamah "domo" as a microcosm of everything that Adamah represents.  
 
 ### Automation
 
