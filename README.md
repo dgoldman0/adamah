@@ -8,6 +8,10 @@ Adamah is a constructed nation built to prototype applying modern technolies to 
 - National Guilds
 - Embassy/Consulate System
 
+# Note
+
+Assume everything within this entire repository to be very early rough draft and not an actual representation of the current state of the project.
+
 # Contact
 
 **Discord:** [Barayin Project Server](https://discord.gg/AnrXxhs3b2)
