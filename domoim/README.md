@@ -42,5 +42,11 @@ Domoim avoid this pitfall through their integration of automation, contractible 
 
 Freed from obligatory roles, participants can contribute in ways that align with their talents and aspirations. Some may focus on innovation, designing improvements to household systems or developing new services. Others may create cultural or educational material, support governance discussions, or engage in outreach that strengthens the domo’s public presence. Still others may choose light involvement, confident that the household’s core functions remain stable whether they participate actively or not.
 
+# Language Note
+
+The construction "domoim" is a sort of hybrid language design and the phonetics is still up in the air. "Domim" might be better.
+
+
+
 If gaps appear—whether technical, organizational, or creative—no member is compelled to fill them. Contract work, guild collaboration, and adaptive automation step in where needed. This flexibility preserves the cooperative spirit without imposing cooperative obligations, allowing the domo to function as a dynamic, resilient community where participation arises from genuine interest rather than duty.
 
