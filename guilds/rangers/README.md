@@ -1,7 +1,3 @@
-Here’s a matching charter for the **First National “Rangers” Guild of Adamah**, in the same voice and format as the Alchemists’ document you shared:
-
----
-
 # First National “Rangers” Guild of Adamah
 
 A **member-owned cooperative** uniting practitioners at the crossroads of ecology, design, and civic stewardship.
