@@ -81,7 +81,7 @@ Members may contribute by:
 
 ## Vision
 
-To build a durable institution that reconnects craft to landscape, ensures ethical access to natural materials, and supports a resilient network of skilled gatherers whose work quietly underpins the wider community.
+To build a durable institution that reconnects craft to landscape, ensures ethical access to natural materials, and supports a resilient network of skilled gatherers whose work quietly underpins the wider community. May be expanded to include ethincal hunting and fishing which respects the impact humanity has on the environemnt and native populations.
 
 ---
 
