@@ -10,6 +10,12 @@ The Guild Association is a central cooperative that supports the formation and m
 
 National guilds form a core element of the Adamah triad paradigm, serving as stewards of the craft or trade within their domain. They also provide the backbone of basic education for the members of the Adamah nation, ensuring that members have a broad, extensive, liberal education that gives them an understanding of the world around them and how they can take part in managing that world.
 
+## Guild Infrastructure
+
+Guild DAO: https://github.com/dgoldman0/guild_dao
+
+Currently in prototype stage, the guild DAO framework makes it easy to build goverance and economic models for guilds, using a multi-tiered voting system, and community invite and promotion model. 
+
 ## Guild Domains
 
 ### Tinkerers
