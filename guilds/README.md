@@ -18,7 +18,7 @@ Currently in prototype stage, the guild DAO framework makes it easy to build gov
 
 ## Guild Domains
 
-### Tinkerers
+### [Tinkerers](https://github.com/dgoldman0/adamah/tree/main/guilds/tinkerers)
 
 Tinkerers shape the world through invention and hands-on creativity. They design, adapt, and assemble solutions that have never existed before. Their curiosity fuels tools, devices, and systems that help build new infrastructure and answer the challenges of today and tomorrow. Wherever something must be imagined, tested, and made real, Tinkerers lead the way. And therefore the tinkerers domain is centrally important to building out the base infrastructure of Adamah.
 
